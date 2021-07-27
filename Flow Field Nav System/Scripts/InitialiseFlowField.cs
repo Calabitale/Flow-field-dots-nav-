@@ -148,7 +148,7 @@ using DotsFlowField;
 
     //        //}).WithoutBurst().Run();
 
-    //        //TODO I'll do the fooking Flowfield data without a buffer I don't think I need a buffer that just makes it more complicade I can have as many flowfield entity's as I want and tehy are easier to iterate through
+    //        //TODO I'll do the fooking Flowfield data without a buffer I don't think I need a buffer that just makes it more complicated I can have as many flowfield entity's as I want and tehy are easier to iterate through
 
     //        //var tempcount = Flowdfieldquery.CalculateEntityCount();
     //        //Debug.Log("The number of flowfield entity's is " + tempcount);
@@ -183,7 +183,7 @@ using DotsFlowField;
 
     //                var tempboff = EntityManager.GetBuffer<FlowfieldVertPointsBuff>(Fluffyentity);
 
-    //                //TODO Need to just get the min and max points, does it matter which is the minimun and maximum as in does it matter in which order they are 
+    //                //TODO Need to just get the min and max points, does it matter which is the minimun and maximum as in does it matter in which order they are, yes it does
 
     //                //tempboff.Add(new float3(othercellworldpos.x - CellRadii, othercellworldpos.y - CellRadii, othercellworldpos.z + CellRadii));
     //                //tempboff.Add(new float3(othercellworldpos.x + CellRadii, othercellworldpos.y - CellRadii, othercellworldpos.z + CellRadii));
