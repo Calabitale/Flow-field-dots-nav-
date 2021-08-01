@@ -1,5 +1,5 @@
 # Flow-field-dots-nav-
-A flow field navigation system that works in Unity dots system with jobs and burst.
+A flow field navigation system that works in Unity dots system with jobs and burst adapted from tutorial from Turbo Makes Games.  
 
 It works fully in dots with pretty much fully bursted.  It gets and converts gameobject colliders into obstacles that block the squares on the flowfield.
 It also has a layer system so that on a single flowfield you can have entities with multiple directions.
